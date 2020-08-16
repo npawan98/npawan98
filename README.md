@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![pawan](https://github.com/npawan98/npawan98/blob/master/pawan.gif)
+
 <!--
 **npawan98/npawan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
