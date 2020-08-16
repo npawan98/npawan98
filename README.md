@@ -8,13 +8,14 @@
 - NodeJS
 - Android
 - Python
-- c++
+- c++ 
+- Many More 
 ### 👨‍💼Experience
     - Technical Lead at DSC JIIT Noida.
 
 ### 🤪Find me 
-    [Twitter](https://twitter.com/technicalcharge)
-    [Instagram](https://www.instagram.com/npawan98/)
+-[Twitter](https://twitter.com/technicalcharge)
+-[Instagram](https://www.instagram.com/npawan98/)
 <!--
 **npawan98/npawan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
