@@ -4,11 +4,11 @@
 
 ### 📌 New Delhi
 ### 🚀Skills
-    - ReactJS
-    - NodeJS
-    - Android
-    - Python
-    - c++
+  - ReactJS
+  - NodeJS
+  - Android
+  - Python
+  - c++
 ### 👨‍💼Experience
     - Technical Lead at DSC JIIT Noida.
 
