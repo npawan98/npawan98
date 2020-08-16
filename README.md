@@ -11,7 +11,7 @@
 - c++ 
 - Many More 
 ### 👨‍💼Experience
-    - Technical Lead at DSC JIIT Noida.
+- Technical Lead at DSC JIIT Noida.
 
 ### 🤪Find me 
 -[Twitter](https://twitter.com/technicalcharge)
