@@ -2,7 +2,7 @@
 
 ![pawan](https://github.com/npawan98/npawan98/blob/master/pawan.gif)
 
-### 📌 New Delhi, India 
+> ### 📌 New Delhi, India 
 ### 🚀Skills
 - ReactJS
 - NodeJS
