@@ -8,7 +8,7 @@
 - NodeJS
 - Android
 - Python
-- c++ 
+- C++ 
 - Many More 
 ### 👨‍💼Experience
 - Technical Lead at DSC JIIT Noida.
